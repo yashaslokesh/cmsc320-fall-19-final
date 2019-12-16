@@ -1,6 +1,3 @@
-## CMSC 320 Final Project
+# How do acoustic features of songs influence their rank? 
 
-- [ ] Scrape ratings data from Spotify API or AllMusic.com
-- [ ] Explore data
-- [ ] Predict ratings
-- [ ] etc, etc.
+A final tutorial for CMSC320
